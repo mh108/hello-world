@@ -1,5 +1,4 @@
-# Hello,
-## World!
+# :octocat: Hello, World! :octocat: 
 
 [My CIS Website on UOregon.edu](http://pages.uoregon.edu/michaelh/111/)
 
